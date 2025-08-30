@@ -74,7 +74,7 @@ promo-banner-app/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rakesh161rausahn/promo-banner-app.git
    cd promo-banner-app
    ```
 
@@ -136,6 +136,12 @@ promo-banner-app/
 - **Mobile Optimized**: Responsive design for all devices
 - **SEO Friendly**: Semantic HTML structure
 
+## 🔗 Live Demo
+
+- **Development Store**: https://promobannerapp.myshopify.com
+- **Backend API**: https://shopify-promo-banner-backend-qqlbq64lf.vercel.app
+- **Backend Repository**: https://github.com/Rakesh161rausahn/shopify-promo-banner-backend
+
 ## 🤝 Support
 
 For support, feature requests, or bug reports:
@@ -151,11 +157,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🏗️ Version History
 
 ### v2.0.0 (Current)
-- Initial release
-- Basic banner functionality
-- Color customization
-- Text customization
-- Theme integration
+- Deployed to production store: promobannerapp.myshopify.com
+- Backend API integrated with Vercel deployment
+- Banner displays "🎉 Free Shipping on All Orders! 🎉"
+- Full theme integration completed
+- Color and text customization available
 
 ## 🙏 Acknowledgments
 

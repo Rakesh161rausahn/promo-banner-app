@@ -5,7 +5,7 @@ Hi Rohan,
 As requested, please find the deliverables below:
 
 **GitHub Repositories:**
-- Main App (Shopify extension + config): https://github.com/YOUR_USERNAME/shopify-promo-banner-app
+- Main App (Shopify extension + config): https://github.com/Rakesh161rausahn/promo-banner-app
 - Backend API (Vercel deployment): https://github.com/Rakesh161rausahn/shopify-promo-banner-backend
 
 **Product Page with Banner:**
